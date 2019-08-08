@@ -1,24 +1,31 @@
 ---
-title: About Brad
+layout: page
+title: About
 permalink: /about/
 ---
 
-I come from Alabama. Somebody had to. In my early years I lived in the south of the state, near Mobile. When I was thirteen or so, my father got a job in north Alabama, near Huntsville. Both places are rural. Scottsboro, the town where I went to high school, is about 15,000 people. I live 12 miles out of town. I can see my neighbor's house but it's far enough I can't hear them unless they're running a lawn mower or a chainsaw. That's right, in Alabama we say running, not using.
+There is so much to say and, yet, so little time. Let's get started:
 
-After high school I joined the Marine Corps and was trained as a computer tech. I was very bad at it in the early days. I didn't have a computer growing up so I didn't know anything about them. It was a fluke I was even given that job. I'd requested to be an electrician. Ultimately I'm glad things worked out how they did. At my first duty station I was lucky to be mentored by a guy much further down the path than me. Who knows where I'd be without him. I was offered a job with a government contractor after I left the military and spent a few years working on the military's messaging systems. Even though it paid well I didn't particularly like the work. Computer systems support is a thankless job, either the computers work---and they're supposed to work---or they don't and it's all your fault.
+### Short version
 
-I found Brazilian Jiu-Jitsu around 2002 and started dreaming of professional fighting. I left server support and started doing desktop support as I thought it would be less demanding and allow me more time to train. In 2005 I had my first (and to date, only) MMA fight. I won the fight, but reflecting afterward I didn't think professional fighting was how I wanted to spend my life. The training leading up to the fight was grueling. I thought there was no way I'd ever get tired, but when I went back to my corner at the end of the first round I was so tired I could barely stand. I was so tired I couldn't even hear my cornermen talking. I realized even as hard as training had been, it wasn't enough. Being a professional fighter would mean getting beat-on every day in the gym and being tired for the next 10 years or more if I was ...lucky?
+I'm a language educator by training but often delve into a variety of other topics: tech stuff, content production, digital detox, travel, religion, monarchism, and more.
 
-About a year later I started looking for a different path. I moved to California, spent the summer taking classes at Butte College, and spent a lot of time thinking about business. I didn't grow up with examples of entrepreneurship. Everyone in my family had jobs so I had to look to the internet and books for examples and ideas. I had a few ideas, as most people do, but no understanding of how to execute them.
+### Slightly longer version
 
-A friend called me at the end of the summer and said he knew about a job. This was the way it had been for years. I'd get fed-up with computer work and decide to quit; go back to school, change fields, something ...but then I'd get a call. It was always more money so I'd say yes. This time the job was in San Diego and the money was more than double what I'd made in years. I was at that job for about a year and a half before being laid-off. Also, I hated that job. I was almost relieved to be let go. I decided this time it was for good.
+I'm a Thai-American blogger with a degree in foreign language teaching. I used my degree to teach for several years in the States but am now resident in Southeast Asia, working in language education administration for a comprehensible input-based program (using the Automatic Language Growth approach) whilst exploring many of my other passions.
 
-I moved back to Alabama thinking things would be cheaper and I could go to university and pay my rent using the GI Bill---but I couldn't. Alabama *is* cheaper than California, but not enough. I started looking for other options. Turns out you can use your GI Bill outside the US. I decided Thailand was my place. There were half a dozen schools approved for the GI Bill and I sent all of them an email requesting information. Only one emailed back. That's how I ended up in Chiang Mai.
+What might those be? For starters, I am a Romanian Greek-Catholic Christian and wholeheartedly embrace Eastern Christianity in its many forms. The Old Believers of Russia, for example, fascinate me, but so does the Armenian Apostolic Church. There is no shortage of Eastern (or Oriental) Christian history or practice that won't captivate me. I am involved in several Roman Catholic parishes in my country but am also active in helping others to delve into the Christian East, particularly the Eastern Catholic Churches.
 
-I was running from computers for about five years, hoping to move into some other industry, some other profession. Finally I decided it might be a good idea *not* to throw away all those years. Maybe I should do something with computers---but not support. Perhaps development.
+As well, I am a (former?) student of several northern kung fu styles: changquan, taijiquan, baguazhang, etc. And although I still dabble in these from time-to-time, I now more regularly train taichokun and am affiliated with [Taichokun Singapore](http://taichokun.com). This southern Chinese style of martial arts is quite traditional and has been a great source of joy to train over the last several years.
 
-I got a job with a local software company doing project management and marketing. My GI Bill had run out and I was desperate. It turned out to be a good thing. I wasn't happy doing the work I was hired for and circumstances allowed me to start developing WordPress sites for the company's clients. I started coming to the office early every day to learn more about web development.
+Beyond this, I am also an ardent monarchist and a royalist at heart. I suspect this is true of most every Thai. We love our royal family and are loyal supporters of the institution of the monarchy. The late King Rama IX was a source of national unity and was a true father to the Kingdom of Thailand. His son, H.M. King Rama X, is likewise Thailand's father, and I wholeheartedly support him. Over the years, I have also developed a lasting fascination with other monarchies, particularly that of Spain. The Carlists, in particular, have captured my heart, and I have learned to deeply appreciate their "Dios, Patria, Rey, Fueros" ethos.
 
-After two years at the company I was let go. A friend who did design work for the company was also let go about that time so we tried to build a business together. Think SquareSpace for the Thai market. My part was to build the tech. I built just enough to demo the product and see if we could get customers. I don't know if what I built wasn't enough to interest anyone or if we failed due to sales effort---whatever the case, that business went nowhere.
+As indicated above, digital detox, deep work, cryptocurrencies, the FIRE movement and other seemingly contradictory things also capture my attention on a regular basis, and I may touch on these as time goes on. If any of this is of interest to you as well, please do reach out by e-mail, and I would like to hear from you on these or most any other topics.
 
-So that brings us to 2017 and back to Alabama. After all that time and many failures, I moved back to the farm. Back to helping Dad with the cows, working in the garden, and raking hay. It's surprising the things that changed around here in 20 years. Two things specifically I would've never imaged in Jackson County: fiber internet and Brazilian Jiu-Jitsu.
+### Contact me
+
+In the future, I hope to extend this page. In the meantime though, write to me if you have any questions:
+
+[ryan@kullavanijaya.com](mailto:email@domain.com)
+
+I would love to hear from you. Do drop a line, and I will get back to you as soon as possible.

@@ -1,7 +1,7 @@
 # Site Settings
-title: Bradonomics | The homepage of Brad West
-description: Web Developer • Brazilian Jiu-Jitsu Nerd • Permaculture Enthusiast • Open Source Advocate • Digital 49er • Marine Corps Veteran
-url: https://bradonomics.com
+title: Ryan Kullavanijaya
+description: Experiments in Life, Language, and Beyond
+url: http://kullavanijaya.com
 
 # Jekyll Configuration
 encoding: UTF-8
@@ -40,16 +40,6 @@ defaults:
     type: pages
   values:
     layout: page
-- scope:
-    type: thailand-etcetera
-  values:
-    layout: thailand-etcetera
-    permalink: /thailand-etcetera/:title/
-- scope:
-    type: portfolio
-  values:
-    layout: portfolio
-    permalink: /portfolio/:title/
 
 # File Handling
 include: [_pages]
