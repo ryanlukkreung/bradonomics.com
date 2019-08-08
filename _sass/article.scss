@@ -15,9 +15,11 @@
 .page article p,
 .page article ol,
 .page article ul,
+.page article figure,
 .post article p,
 .post article ul,
-.post article ol {
+.post article ol,
+.post article figure {
   margin: 0 0 1.4em;
 }
 
@@ -74,18 +76,12 @@ hr {
   border: 0;
 }
 
-.footnotes {
-  margin-top: 3rem;
-
-  &:before {
-    font-size: 1.3em;
-    font-weight: bold;
-    content: 'Footnotes';
-  }
+.content footer {
+  text-align: center;
 }
 
 .entry-meta {
-  font-size: .8em;
+  font-size: .8rem;
 
   .note & {
     font-size: .65em;
@@ -102,9 +98,4 @@ hr {
   font-family: $font-header;
   font-size: 1.5em;
   font-weight: bold;
-  text-align: center;
-}
-
-.after-post {
-  text-align: center;
 }

@@ -3,20 +3,23 @@
 
 {% include head.html %}
 
-<body class="{% if page.url == '/' %}home{% elsif page.layout == 'page' %}page{% elsif page.layout == 'post' or page.layout == 'note' %}post{% elsif page.category == 'articles' or page.category == 'notes' %}archive{% endif %}">
+<body {% if page.url == '/' %}class="home"{% elsif page.layout == 'page' %}class="page"{% elsif page.layout == 'post' or page.layout == 'note' %}class="post"{% elsif page.category == 'articles' or page.category == 'notes' %}class="archive"{% elsif page.url == '/newsletter/' %}class="newsletter"{% endif %}>
 
   <header class="site-header">
 
     {% if page.url == '/' %}
-      <h1 class="site-title"><a href="/">Brad West</a></h1>
+      <h1 class="site-title"><a href="{{ '/' | absolute_url }}">Brad West</a></h1>
     {% else %}
-      <p class="site-title"><a href="/">Brad West</a></p>
+      <p class="site-title"><a href="{{ '/' | absolute_url }}">Brad West</a></p>
     {% endif %}
 
     <nav>
-        <a {% if page.url == '/about/' %}class="active" {% endif %}href="{{ '/about/' | absolute_url }}">About</a>
-        <a {% if page.url == '/notes/' %}class="active" {% endif %}href="{{ '/notes/' | absolute_url }}">Notes</a>
-        <a {% if page.url == '/articles/' %}class="active" {% endif %}href="{{ '/articles/' | absolute_url }}">Articles</a>
+      <a {% if page.url == '/about/' %}class="active" {% endif %}href="{{ '/about/' | absolute_url }}">About</a> /
+      <a {% if page.url == '/notes/' %}class="active" {% endif %}href="{{ '/notes/' | absolute_url }}">Notes</a> /
+      <a {% if page.url == '/articles/' %}class="active" {% endif %}href="{{ '/articles/' | absolute_url }}">Articles</a> /
+      <a {% if page.url == '/canon/' %}class="active" {% endif %}href="{{ '/canon/' | absolute_url }}">Canon</a> /
+      <a {% if page.url == '/blogroll/' %}class="active" {% endif %}href="{{ '/blogroll/' | absolute_url }}">Blogroll</a> /
+      <a {% if page.url == '/newsletter/' %}class="active" {% endif %}href="{{ '/newsletter/' | absolute_url }}">Newsletter</a>
     </nav>
 
   </header>
@@ -38,8 +41,8 @@
           <p>A few of my favorite blogs, delivered via <a href="{{ '/2018-10-10/' | absolute_url }}">web feeds</a>.</p>
         </li>
         <li>
-          <p class="section-title">colophon</p>
-          <p>Built with Jekyll, <a href="https://github.com/bradonomics/dotfiles/blob/master/bin/ghpages-deploy.sh">deployed with bash</a>, <a href="https://github.com/bradonomics/bradonomics.com">hosted at Github</a>.</p>
+          <a href="{{ '/newsletter/' | absolute_url }}" class="section-title link">newsletter</a>
+          <p>Building a tour company, in public.</p>
         </li>
         <li>
           <a href="{{ '/privacy/' | absolute_url }}" class="section-title link">privacy</a>

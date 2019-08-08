@@ -40,6 +40,8 @@ Design is how it functions, not how it looks---how it looks is called art.
 
 [This is Broken](https://www.ted.com/talks/seth_godin_this_is_broken_1) by Seth Godin
 
+[Words](https://justinjackson.ca/words.html) by Justin Jackson
+
 ## Personal Finance & Self Reliance
 
 _Your Money or Your Life_ by Joe Dominguez & Vicki Robin
@@ -90,3 +92,5 @@ Austin Kleon on [keeping a logbook](https://austinkleon.com/2010/01/31/logbook/)
 ## Other Goodness
 
 [The Busy Trap](https://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/) by Tim Kreider
+
+[Go Your Own Way](https://themorningnews.org/article/go-your-own-way) by Doug Mack
