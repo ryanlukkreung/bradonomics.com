@@ -19,11 +19,11 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Collections
-collections:
-  portfolio:
-    output: true
-  thailand-etcetera:
-    output: true
+# collections:
+#   portfolio:
+#     output: true
+#   thailand-etcetera:
+#     output: true
 
 # Collection Defaults
 defaults:
