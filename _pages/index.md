@@ -1,6 +1,6 @@
 ---
-title: Brad West
-description: "The Homepage of Brad West: Web Developer • Permaculture Enthusiast • Brazilian Jiu-Jitsu Nerd • Open Source Advocate • Digital 49er • USMC Veteran"
+title: Ryan Kullavanijaya
+description: Experiments in Life, Language, and Beyond
 layout: default
 permalink: /
 ---

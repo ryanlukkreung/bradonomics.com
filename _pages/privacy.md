@@ -19,4 +19,4 @@ To comply with America's Federal Trade Commission regulations, I've got to tell 
 
 Note that this is a website and as such acts no different than most other websites. I have chosen not to collect data or track your visits, but I might still try to sell you stuff.
 
-This site is hosted with [GitHub Pages](https://pages.github.com/) and uses [Cloudflare](https://www.cloudflare.com/) for content distribution. If either of those services attach cookies or otherwise track you, that's on them. You can probably find their privacy and terms-of-service notices in their footers.
+This site is hosted with [GitHub Pages](https://pages.github.com/). If they attach cookies or otherwise track you, that's on them. You can probably find their privacy and terms-of-service notices in their footer.
