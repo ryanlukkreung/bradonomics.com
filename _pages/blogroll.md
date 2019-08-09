@@ -3,46 +3,36 @@ title: Blogroll
 permalink: /blogroll/
 ---
 
-Are you old enough to remember blogrolls? They used to be popular and I think they should be again. I use an [feed reader]({{ "/2018-10-10/" | absolute_url }}) to keep up with the bloggers I like. If you do not, you should probably look into that.
+In the days of yore, blogs used to have a blogroll. This was a magical place to share all the blogs you regularly followed and wanted to share with others. You might even have used your blogroll as a resource to open those blogs yourself, but now there are more convenient tools (RSS feed readers), such as [Feedly](http://feedly.com). If you haven't looked into RSS feed readers, [do seriously consider it](https://bradonomics.com/2018-10-10/).
 
-If you have a blog you think I'd like, you should email me. I promise to read at least one article. If I like it enough I'll subscribe, I'll link to it here.
+Meanwhile, if you have a blog that you think will be of interest to me, send me an [e-mail](mailto:ryan@kullavanijaya.com). At the very least, I will read one or two posts. If I like it, I might even add your site below!
 
-## Underappreciated
+## Language Acquisition
 
-[Still Drinking](https://www.stilldrinking.org/essays.php): Humorous writing by a guy from Brooklyn: [Programming Sucks](https://www.stilldrinking.org/programming-sucks), [Job Advice](https://www.stilldrinking.org/job-advice)
+[Beyond Language Learning](https://beyondlanguagelearning.com/): A Canadian friend's discoveries and commentaries on Automatic Language Growth, a natural language acquisition approach
 
-[Expat Software](http://www.expatsoftware.com/articles/): An American expatriate running a software company from the road: [Happiness is a Boring Stack](http://www.expatsoftware.com/articles/happiness-is-a-boring-stack.html), [Two Weeks Vacation](http://www.expatsoftware.com/articles/2007/02/two-weeks-vacation-is-only.html)
+[Dreaming Languages](https://dreaminglanguages.wordpress.com/): The adventures of a Spaniard learning Thai and discovering natural language acquisition approaches
 
-[Random Wire](https://randomwire.com/): Photo essays of Asia.
+## Religion
 
-## Well Known but Still Good
+[Vultus Christi](https://vultuschristi.org/): Dom Mark '(Kirby)' is the prior of [Silverstream Priory](https://www.cenacleosb.org/) and has been writing on the Benedictine rule and spirituality since 2006.
 
-[Cal Newport](http://calnewport.com/): Working in a distracted world.
+[Inclinam aurem cordis tui](https://auremcordis.wordpress.com/): An oblate of Silverstream writes on the Benedictine rule and lay Benedictine experience.
 
-[Paul Graham](http://paulgraham.com/articles.html): His site exists in HTML tables—no joke. You'll want to punch yourself in the face after trying to save his articles to Instapaper or anywhere else, but many are worth the trouble: [Cities and Ambition](http://www.paulgraham.com/cities.html), [What You Can't Say](http://www.paulgraham.com/say.html)
+[The Rad Trad](https://theradtrad.blogspot.com/): An American fellow touches on both Eastern and Western Catholic traditions.
 
-[Tim Ferriss](https://tim.blog/): The godfather of lifestyle design.
+## Finance
 
-[Mr Money Mustache](http://www.mrmoneymustache.com/): The godfather of early retirement.
+[Mr. Money Mustache](http://www.mrmoneymustache.com/): MMM is probably one of the fathers of the FIRE movement. He might not have been the first, but he was my introduction. If you need a good primer, check out his [Getting Rich](http://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/) entry, which promises to take you from *Zero to Hero in One Blog Post*.
 
-## Dormant; Read the Archives
+[JL Collins](https://jlcollinsnh.com/): JL Collins is another pioneer of the financial independence movement. If you don't have time to read his entire blog, consider checking out his book, *The Simple Path to Wealth*.
 
-[TropicalMBA](http://www.tropicalmba.com/): Mostly just a podcast these days, but once upon a time Dan Andrews wrote about building a business while traveling: [Finding My 5 Hours](http://www.tropicalmba.com/5hours/), [The Script](http://www.tropicalmba.com/the-script/)
+[Millenial Revolution](https://www.millennial-revolution.com): A young couple from Canada managaed to retire by 31 and now travel the world. [Check out](https://www.millennial-revolution.com/start-here/) how they managed to do so.
 
-[Joel on Software](https://www.joelonsoftware.com/): The founder of Stack Overflow and Fog Creek Software.
+## Miscellaneous
 
-[Rob Walling](https://robwalling.com/): Lessons learned by a guy who started multiple software companies.
+[Study Hacks Blog](http://www.calnewport.com/blog/): Cal Newport touches on digital minimalism, deep work, and breaking free from Big Social. Cal is probably one of the reasons I am finally setting up this blog and slowly cutting back on Big Social.
 
-[Vinicius Vacanti](http://viniciusvacanti.com/): More entrepreneur stories.
+[Bradonomics](http://bradonomics.com): Brad West touches on everything from single purpose devices to language learning. Like Cal Newport, Brad is one of the reasons I have a domain today.
 
-[Wait But Why](https://waitbutwhy.com/): Complete randomness, but fairly well researched: [The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html), [The Artificial Intelligence Revolution](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
-
-[Kalzumeus](https://www.kalzumeus.com/): A software entrepreneur, who spends most of his time on Twitter these days. I wish he'd return to blogging: [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/), [Don't Call Yourself A Programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
-
-## Newsletters
-
-It is hard to find good stuff on the web these days. As much as I like blogs, a curated newsletter can find those one-off articles that are really good without having to slog through a generally bad blog yourself. On occasion a good newsletter can introduce you to a good blog.
-
-[Hacker Newsletter](https://www.hackernewsletter.com/): Some of the stuff on Hacker News is great but who has the time to look through it all? Hacker Newsletter sends me the best-of-the-best every Friday.
-
-[Austin Kleon](https://austinkleon.com/newsletter/): Austin is a "daily blogger." Who has that much interesting stuff to say? Nobody I've ever seen. Austin does do a good job curating and also adds his best of the week. No slogging required.
+[Atomic Habits](https://jamesclear.com/articles): James Clear is the guy to go to for improving your habits and taking stock of your daily routine. Want to improve your performance? This is the place to start. Be warned, you could get lost for hours (or days) here.
