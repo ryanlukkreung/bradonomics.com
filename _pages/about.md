@@ -7,11 +7,11 @@ There is so much to say and, yet, so little time. Let's get started:
 
 ### Short version
 
-I'm a language educator by training but often delve into a variety of other topics: tech stuff, content production, digital detox, travel, religion, monarchism, and more.
+I'm a language educator by training but often delve into a variety of other topics: cryptocurrencies, content production, digital detox, travel, religion, monarchism, and more.
 
 ### Slightly longer version
 
-I'm a Thai-American blogger with a degree in foreign language teaching. I used my degree to teach for several years in the States but am now resident in Southeast Asia, working in language education administration for a comprehensible input-based program (using the Automatic Language Growth approach) whilst exploring many of my other passions.
+I'm a Thai-American dual national with a degree in foreign language teaching. I used my degree to teach for several years in the States but am now resident in Southeast Asia, working in language education administration for a comprehensible input-based program (using the Automatic Language Growth approach) whilst exploring many of my other passions.
 
 What might those be? For starters, I am a Romanian Greek-Catholic Christian and wholeheartedly embrace Eastern Christianity in its many forms. The Old Believers of Russia, for example, fascinate me, but so does the Armenian Apostolic Church. There is no shortage of Eastern (or Oriental) Christian history or practice that won't captivate me. I am involved in several Roman Catholic parishes in my country but am also active in helping others to delve into the Christian East, particularly the Eastern Catholic Churches.
 
@@ -25,6 +25,6 @@ As indicated above, digital detox, deep work, cryptocurrencies, the FIRE movemen
 
 In the future, I hope to extend this page. In the meantime though, write to me if you have any questions:
 
-[ryan@kullavanijaya.com](mailto:email@domain.com)
+[ryan@kullavanijaya.com](mailto:ryan@kullavanijaya.com)
 
 I would love to hear from you. Do drop a line, and I will get back to you as soon as possible.
