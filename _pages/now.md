@@ -1,8 +1,16 @@
+---
+title: Now
+permalink: /now/
+---
+
+A [now page](https://sivers.org/nowff) is an easy way to share a bird's eye view of my recent activities and adventures. Instead of posting constant updates on social media, this page will provide a simple overview of what I'm up to.
+
+If you are interested in learning more about now pages, Derek Sivers explains how he started the [Now Pages Movement](https://nownownow.com/about).
+
 ## Work
 
-- Admin for a natural language acquisition program
-- Thailand tour operator
-- Freelance language tutoring & translation
+- Investigating online lessons for a natural language acquisition program
+- Continuing freelance language tutoring & translation work
 
 ## Reading & Recently Read
 
@@ -17,8 +25,8 @@
 
 ## Apostolate
 
--Trying to reboot the _Greek Catholic Society of Thailand_
--Arranging catechism, Latin lessons, and other activities for the Blessed Nicholas Catholic Association
+-Scheduling our first _Greek Catholic Society of Thailand_ for 2020
+-Arranging catechism classes, Latin lessons, and other activities for the Blessed Nicholas Catholic Association
 
 ***
 
