@@ -4,7 +4,8 @@ description: Experiments in Life, Language, and Beyond
 layout: default
 permalink: /
 ---
+Welcome! You've reached the virtual home for Ryan Kullavanijaya.
 
-I'm a [Thailand Tour Operator](https://thailandetcetera.com/), martial arts master wannabe, language educator, and Romanian Greek Catholic.
+I'm a language educator, martial arts master wannabe, royalist, and Romanian Greek Catholic.
 
 [Read my story here]({{ '/about/' | absolute_url }}).

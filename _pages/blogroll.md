@@ -3,7 +3,7 @@ title: Blogroll
 permalink: /blogroll/
 ---
 
-In the days of yore, blogs used to have a blogroll. This was a magical place to share all the blogs you regularly followed and wanted to share with others. You might even have used your blogroll as a resource to open those blogs yourself, but now there are more convenient tools (RSS feed readers), such as [Feedly](http://feedly.com). If you haven't looked into RSS feed readers, [do seriously consider it](https://bradonomics.com/2018-10-10/).
+In the days of yore, blogs used to have a blogroll. This was a magical place to share all the blogs you regularly followed and wanted to share with others. You might even have used your blogroll as a resource to open those blogs yourself, but now there are more convenient tools (RSS feed readers), such as [Feedly](http://feedly.com). If you haven't looked into RSS feed readers, [do seriously consider it](https://bradonomics.com/web-feeds/).
 
 Meanwhile, if you have a blog that you think will be of interest to me, send me an [e-mail](mailto:ryan@kullavanijaya.com). At the very least, I will read one or two posts. If I like it, I might even add your site below!
 
